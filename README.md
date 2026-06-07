@@ -85,23 +85,21 @@ Passionate Frontend VLSI Engineer with hands-on experience in RTL Design, Functi
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vignesh-GCEB&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vignesh-GCEB&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh-GCEB&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Vignesh-GCEB&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-GCEB&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh-GCEB&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vignesh-GCEB&theme=tokyonight&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vignesh-GCEB&theme=tokyonight&margin-w=15" />
 </p>
 
 ---
